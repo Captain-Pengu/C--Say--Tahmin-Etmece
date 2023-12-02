@@ -1,0 +1,41 @@
+C:\Users\cagri\source\repos\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe.config
+C:\Users\cagri\source\repos\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe
+C:\Users\cagri\source\repos\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.pdb
+C:\Users\cagri\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.AssemblyReference.cache
+C:\Users\cagri\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form1.resources
+C:\Users\cagri\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Properties.Resources.resources
+C:\Users\cagri\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.GenerateResource.cache
+C:\Users\cagri\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.CoreCompileInputs.cache
+C:\Users\cagri\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.exe
+C:\Users\cagri\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.pdb
+E:\Vs Projeleri\Sayı Tahmin Etmece\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe.config
+E:\Vs Projeleri\Sayı Tahmin Etmece\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe
+E:\Vs Projeleri\Sayı Tahmin Etmece\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.pdb
+E:\Vs Projeleri\Sayı Tahmin Etmece\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.AssemblyReference.cache
+E:\Vs Projeleri\Sayı Tahmin Etmece\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form1.resources
+E:\Vs Projeleri\Sayı Tahmin Etmece\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Properties.Resources.resources
+E:\Vs Projeleri\Sayı Tahmin Etmece\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.GenerateResource.cache
+E:\Vs Projeleri\Sayı Tahmin Etmece\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.CoreCompileInputs.cache
+E:\Vs Projeleri\Sayı Tahmin Etmece\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.exe
+E:\Vs Projeleri\Sayı Tahmin Etmece\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.pdb
+D:\Vs Projeleri\Sayı Tahmin Etmece\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe.config
+D:\Vs Projeleri\Sayı Tahmin Etmece\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe
+D:\Vs Projeleri\Sayı Tahmin Etmece\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.pdb
+D:\Vs Projeleri\Sayı Tahmin Etmece\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.AssemblyReference.cache
+D:\Vs Projeleri\Sayı Tahmin Etmece\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.SuggestedBindingRedirects.cache
+D:\Vs Projeleri\Sayı Tahmin Etmece\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form1.resources
+D:\Vs Projeleri\Sayı Tahmin Etmece\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Properties.Resources.resources
+D:\Vs Projeleri\Sayı Tahmin Etmece\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.GenerateResource.cache
+D:\Vs Projeleri\Sayı Tahmin Etmece\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.CoreCompileInputs.cache
+D:\Vs Projeleri\Sayı Tahmin Etmece\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.exe
+D:\Vs Projeleri\Sayı Tahmin Etmece\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.pdb
+C:\Users\cagri\Desktop\Sayı Tahmin Etmece\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe.config
+C:\Users\cagri\Desktop\Sayı Tahmin Etmece\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe
+C:\Users\cagri\Desktop\Sayı Tahmin Etmece\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.pdb
+C:\Users\cagri\Desktop\Sayı Tahmin Etmece\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.AssemblyReference.cache
+C:\Users\cagri\Desktop\Sayı Tahmin Etmece\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form1.resources
+C:\Users\cagri\Desktop\Sayı Tahmin Etmece\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Properties.Resources.resources
+C:\Users\cagri\Desktop\Sayı Tahmin Etmece\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.GenerateResource.cache
+C:\Users\cagri\Desktop\Sayı Tahmin Etmece\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.CoreCompileInputs.cache
+C:\Users\cagri\Desktop\Sayı Tahmin Etmece\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.exe
+C:\Users\cagri\Desktop\Sayı Tahmin Etmece\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.pdb
